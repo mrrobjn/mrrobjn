@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 On my way to be a software engineer
 - 🌱 I’m currently learning **Redux**
 - 📫 How to reach me **votruongdung4@gmail.com**
 
